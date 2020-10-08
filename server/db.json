@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Elva Hoeger V",
+      "email": "ragini",
+      "phone": "001-123-4567"
+    },
+    {
+      "id": 2,
+      "name": "Black Widow",
+      "email": "ragini",
+      "phone": "001-123-4568"
+    },
+    {
+      "id": 3,
+      "name": "adity vavilipalli",
+      "email": "aditya.vavilipalli@gmail.com",
+      "phone": "248-225-3434"
+    },
+    {
+      "id": 4,
+      "name": "adity vavilipalli",
+      "email": "aditya.vavilipalli@gmail.com",
+      "phone": "248-225-3434"
+    },
+    {
+      "name": "ragini nara",
+      "email": "ragini.nara@outlook.com",
+      "phone": "248-225-4385",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": 0,
+      "id": 6
+    },
+    {
+      "name": "ravi",
+      "email": "ss",
+      "phone": "667",
+      "id": 7
+    },
+    {
+      "name": "ravi",
+      "email": "ss",
+      "phone": "667",
+      "id": 8
+    },
+    {
+      "name": "ravi",
+      "email": "ss",
+      "phone": "667",
+      "id": 9
+    },
+    {
+      "name": "ravi",
+      "email": "ss",
+      "phone": "667",
+      "id": 10
+    },
+    {
+      "name": "ravi",
+      "email": "ss",
+      "phone": "667",
+      "id": 11
+    }
+  ]
+}
