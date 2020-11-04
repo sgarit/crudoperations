@@ -1,0 +1,13 @@
+.imageClass
+{
+  width: 200px;
+  height:200px;
+}
+.customdivStyle{
+  margin:3px;
+  text-align: center;
+  background-color: gray;
+  min-height: 300px;
+  font-size: large;
+  font-weight: bold;
+}
